@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencync",
+        "uuid": 1443330,
+        "checksum": "5u8dpr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
